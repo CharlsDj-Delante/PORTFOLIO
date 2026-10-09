@@ -1,1 +1,2 @@
-OPEN THE INDEX.HTML INTO YOUR CHROME
+[OPEN MY WEBSITE]
+(https://charlsdj-delante.github.io/PORTFOLIO/)
